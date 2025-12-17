@@ -1,6 +1,8 @@
 Sobot_iOS_SDK_V7：
 
-Standard Edition:[<Sobot iOS_SDK_V7_4.3.0>](https://shimo.im/docs/XKq4252aNNc8n9AN)
+
+Standard Edition:[Sobot iOS_SDK_V7_4.3.0](https://github.com/ZCSDK/doc/blob/master/iOS/iOS_SDK.md). 
+
 
 ## Update Notes SDK-4.3.0 (2025-11-07)
 
@@ -29,7 +31,8 @@ Standard Edition:[<Sobot iOS_SDK_V7_4.3.0>](https://shimo.im/docs/XKq4252aNNc8n9
 
 Sobot_iOS_SDK_V6：
 
-Standard Edition:[<Sobot iOS_SDK_4.2.7>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.2.7.zip)
+Standard Edition:[[iOS_SDK_v6]](https://img.sobot.com/mobile/sdk/iOS_SDK_4.2.8.zip)
+
 
 ##  Update Notes SDK-4.2.8 (2025-08-26)
 
