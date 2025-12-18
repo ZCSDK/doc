@@ -1,39 +1,29 @@
-最新版本 3.0.2
+Latest version 2.2.0
 
 
-源码下载链接：[Android_Call_Sdk_3.0.2](https://img.sobot.com/mobile/callsdk/Android_Call_Sdk_3.0.2.zip)
+Source code download link：[Android_Call_Sdk_2.2.0](https://img.sobot.com/mobile/callsdk/Android_Call_Sdk_2.2.0.zip)
 
-依赖：api 'com.sobot.call:sobotcall_x:3.0.2'
-
-
-**3.0.2 版本更新说明(2024-05-10)**
-
-1、【新增】呼叫服务总结添加级联类型字段和删除提示 
-
-2、【新增】呼叫任务详情、总结添加单选、复选、级联字段和删除提示
-
-3、【优化】登录方式  
+be dependent on：api 'com.sobot.call:sobotcall_x:2.2.0'
 
 
-### 2.2.0 版本更新说明(2024-01-30)
+### 2.2.0Version update instructions(2024-01-30)
 
-1、【优化】新版外呼任务  
-
-
-### 2.0.0 版本更新说明(2023-08-26)
-
-1、【新增】支持v6
-
-2、【新增】切换座席状态、通话记录、通话任务、呼入呼出电话、sip和手机通话
+1. [Optimization] New outbound calling tasks
 
 
-### 1.0.0 版本更新说明(2021-12-16)
+### 2.0.0 Version update instructions(2023-08-26)
 
-1、【新增】通过拨号界面输入电话号后去语音打电话
+1. [New] Support for v6
 
-2、【新增】通过直接传入电话号去语音打电话
+2. [New] Switching seat status, call records, call tasks, incoming and outgoing calls, SIP and mobile calls
 
-3、【新增】接听客户的呼入电话
 
+### 1.0.0 Version update instructions(2021-12-16)
+
+1. [New] Enter the phone number through the dialing interface and make a voice call
+
+2. [New] Making voice calls by directly inputting a phone number
+
+3. [New] Answer incoming calls from customers
 
 

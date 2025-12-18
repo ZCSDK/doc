@@ -1,27 +1,24 @@
-最新版本 1.2.0
+latest version: 2.0.0
+
+Source code download link：[Android_Order_SDK_2.0.0](https://img.sobot.com/mobile/ordersdk/Android_Order_SDK_2.0.0.zip)
+
+Dependency: 'com.sobot.zcsdk:ordersdk:2.0.0'
 
 
-普通版：
 
-源码下载链接：[Android_TMSDK_1.1.1](https://img.sobot.com/mobile/telemarketingsdk/Android_TMSDK_1.1.1.zip)
+# Update Notes SDK-2.0.0 (2024-3-20)#
 
-依赖：api 'com.sobot.call:telemarketingsdk:1.2.0'
+  1. [New] Multiple image selection is supported for work order attachments.
 
-### 1.2.0 版本更新说明(2024-12-17)
+  2. Update the glidev4 adapter library version. For versions of glide above 4.9, an additional dependency ('com.sobot.chat:sobotsupport-glidev4:3.1') is required.
 
-1、【优化】统一鉴权
+# Update Notes SDK-1.0.0 (2022-5-26)#
 
-2、【优化】适配android14 广播和服务
+  1. First release.   
 
-3、【新增】外呼新增添加开放参数：userDataMap（用户自定义数据）
+  2. Functions: Work order viewing, filtering, adding, editing, replying, and other functions.    
 
-
-### 1.1.1 版本更新说明(2024-05-10)
-
-1、【优化】登录方式   
+  3. Other functions: account login and logout.
 
 
-### 1.0.0 版本更新说明(2024-01-30)
-
-1、【新增】语音电销产品   
 
