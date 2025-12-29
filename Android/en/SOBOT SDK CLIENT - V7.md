@@ -15,7 +15,7 @@
       integrate smart teeth customer service into the APP, giving the APP a 7 * 24-hour          customer service capability.
 
 
-Source code download link:[Android_SDK_4.3.1](https://img.sobot.com/mobile/sdk/Android_SDK_4.3.1.zip)
+Source code download link:[Android_SDK_4.4.0](https://img.sobot.com/mobile/sdk/Android_SDK_4.4.0.zip)
 
 Dependency: 'com.sobot.chat:client:+'
 
