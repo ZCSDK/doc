@@ -10,9 +10,7 @@
 
 【 Compliance Statement】：[《Compliance Statement》](https://www.zhichi.com/docs/sdk/sdk_compliance_configuration_guide.html)
 
-【 Main Function 】: The Wisdom Tooth Technology SDK visitor terminal provides a             complete set of intelligent customer service solutions for enterprises. The Wisdom         Teeth Customer Service SDK includes both customer service business logic and              provides an interactive interface; Enterprises only need two simple steps to        
-
-      integrate smart teeth customer service into the APP, giving the APP a 7 * 24-hour          customer service capability.
+【 Main Function 】: The ZhiChi Technology SDK Visitor Client provides a comprehensive set of intelligent customer service solutions for enterprises. The ZhiChi Customer Service SDK not only encompasses customer service business logic but also offers an interactive interface. Enterprises can integrate ZhiChi Customer Service into their APPs in just two simple steps, enabling the APPs to provide 24/7 customer service.
 
 
 Source code download link:[Android_SDK_4.4.0](https://img.sobot.com/mobile/sdk/Android_SDK_4.4.0.zip)
