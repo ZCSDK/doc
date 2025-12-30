@@ -13,10 +13,9 @@
 [Main Functions]: The ZhiChi Technology SDK visitor terminal provides enterprises with a comprehensive set of intelligent customer service solutions. The ZhiChi customer service SDK includes both customer service business logic and interactive interfaces; enterprises can integrate ZhiChi customer service into their APPs in just two simple steps, enabling the APPs to provide 7*24-hour customer service.
 
 
-Source code download link: [Android_SDK_X_4.2.8](https://img.sobot.com/mobile/sdk/Android_SDK_X_4.2.8.zip)
+Source code download link: [Android_SDK_X_4.2.13](https://img.sobot.com/mobile/sdk/Android_SDK_X_4.2.13.zip)
 
-Dependency: 'com.sobot.chat:sobotsdk_x:4.2.8.2'
-
+Dependency: 'com.sobot.chat:sobotsdk_x:4.2.13'
 
 [Note]
 
@@ -24,8 +23,25 @@ If your application is submitted to the Google Play Store and encounters issues 
 
 Please use the Google version corresponding to the Zhizhi Customer Service SDK: [[Latest version address]](https://central.sonatype.com/artifact/com.sobot.chat/sobotsdk_g)
 
-
 Dependency: 'com.sobot.chat:sobotsdk_g:+'
+
+
+
+Update Explanation SDK-4.2.13 (2025-12-29)
+[New] Work order plugin supports displaying authorization instructions
+[Optimization] Method for obtaining the number of unread messages with a frequency limit of once every 5 minutes
+
+Update Explanation SDK-4.2.12 (2025-12-08)
+[New] If the user refuses microphone permission during video recording, they can continue recording silent videos
+[Optimization] The large model returns multiple image data for compatible display
+[Optimization] HTML escape character display
+
+Update Explanation SDK-4.2.10 (November 24, 2025)
+[Optimization] HTML escape character display
+[Optimization] The default display for service evaluation is whether the issue has been resolved
+
+Update Explanation SDK-4.2.9 (November 20, 2025)
+[Optimization] Message phone area code setting default+86
 
 
 Update Description SDK-4.2.8.2 (2025-09-04)
@@ -319,7 +335,6 @@ Update Description SDK-4.0.0 (2022-11-03)
 [New] Support for configuring multi-action shortcut menus
 
 [New] Support for new version FAQs
-
 
 
 

@@ -7,9 +7,9 @@
 【主要功能】：智齿科技 SDK 访客端 为企业提供了一整套完善的智能客服解决方案。智齿客服 SDK 既包含客服业务逻辑，也提供交互界面；企业只需简单两步，便可在 APP 中集成智齿客服，让 APP 拥有 7 * 24 小时客服服务能力。
 
 
-源码下载链接：[Android_SDK_X_4.2.10](https://img.sobot.com/mobile/sdk/Android_SDK_X_4.2.10.zip)
+源码下载链接：[Android_SDK_X_4.2.13](https://img.sobot.com/mobile/sdk/Android_SDK_X_4.2.13.zip)
 
-依赖：'com.sobot.chat:sobotsdk_x:4.2.10'
+依赖：'com.sobot.chat:sobotsdk_x:4.2.13'
 
 
 【注意】
@@ -21,6 +21,10 @@
 
 依赖:   'com.sobot.chat:sobotsdk_g:+'
 
+### 更新说明 SDK-4.2.13 (2025-12-29)
+
+【新增】工单插件支持显示授权说明
+【优化】获取未读消息数方法频率限制5分钟一次
 
 ### 更新说明 SDK-4.2.12 (2025-12-08)
 
@@ -336,7 +340,6 @@
 【新增】支持配置多动能快捷菜单
 
 【新增】支持新版常见问题
-
 
 
 
