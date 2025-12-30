@@ -46,8 +46,10 @@
 
 智齿iOS_SDK_V6：
 
-标准版：[<智齿iOS_SDK_4.2.8>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.2.8.zip)
+标准版：[<智齿iOS_SDK_4.2.13>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.2.13.zip)
 
+## SDK 4.2.13 版本更新说明[2025-12-29] 
+1【新增】工单插件授权说明  
 
 ## ## 更新说明 SDK-4.2.8 (2025-08-29)
 
