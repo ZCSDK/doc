@@ -5,11 +5,11 @@ Basic:
 Download link: [[iOS_SDK_v7]](https://img.sobot.com/mobile/sdk/iOS_SDK_4.4.0.zip)
 
 
-**V6：4.2.8**
+**V6：4.2.13**
 
 Basic:
 
-Download link: [[iOS_SDK_v6]](https://img.sobot.com/mobile/sdk/iOS_SDK_4.2.8.zip)
+Download link: [[iOS_SDK_v6]](https://img.sobot.com/mobile/sdk/iOS_SDK_4.2.13.zip)
 
 
 **V1：3.3.3**
