@@ -11,17 +11,30 @@
 
 普通版：
 
-源码下载链接：[Android_SDK_X_3.3.6](https://img.sobot.com/mobile/sdk/Android_SDK_X_3.3.6.zip)
+源码下载链接：[Android_SDK_X_3.3.9](https://img.sobot.com/mobile/sdk/Android_SDK_X_3.3.9.zip)
 
-依赖：'com.sobot.chat:sobotsdk_x:3.3.6.2'
+依赖：'com.sobot.chat:sobotsdk_x:3.3.9'
 
 
 电商版：
 
-下载链接：[Android_SDK_MALL_X_3.3.6](https://img.sobot.com/mobile/sdk/Android_SDK_MALL_X_3.3.6.zip)
+下载链接：[Android_SDK_MALL_X_3.3.9](https://img.sobot.com/mobile/sdk/Android_SDK_MALL_X_3.3.9.zip)
 
-依赖：'com.sobot.chat:sobotsdk-mall-x:3.3.6.2'
+依赖：'com.sobot.chat:sobotsdk-mall-x:3.3.9'
 
+【注意】
+
+如果您的应用发布到谷歌应用市场，审核时遇到问题：开发者必须从应用清单中移除【READ_MEDIA_IMAGES】和【READ_MEDIA_VIDEO】权限，以及使用Android照片选择器这类系统照片选择器。
+
+请使用智齿客服 SDK 对应的谷歌版本：[[最新版本地址]](https://central.sonatype.com/artifact/com.sobot.chat/sobotsdk_g)
+
+V1 SDK 对应版本号以 3. 开头
+
+依赖:   'com.sobot.chat:sobotsdk_g:3.+'
+
+# 更新说明 SDK-3.3.9 (2025-12-19)#
+
+【优化】修复个别手机清空历史记录文案没有显示对应语言的问题
 
 # 更新说明 SDK-3.3.6 (2025-7-17)#
 
