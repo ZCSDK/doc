@@ -25,7 +25,9 @@ Please use the Google version corresponding to the Zhizhi Customer Service SDK: 
 
 Dependency: 'com.sobot.chat:sobotsdk_g:+'
 
+Update Description SDK-4.2.13.2 (2025-01-07)
 
+[Optimization] Fixed the issue of long-press shooting failure on certain Android 9 phones
 
 Update Explanation SDK-4.2.13 (2025-12-29)
 [New] Work order plugin supports displaying authorization instructions
