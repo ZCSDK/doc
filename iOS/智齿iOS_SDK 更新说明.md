@@ -2,7 +2,10 @@
 
 智齿iOS_SDK_V7：
 
-标准版：[<智齿iOS_SDK_4.4.0>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.4.0.zip)
+标准版：[<智齿iOS_SDK_4.4.1>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.4.1.zip)
+
+## SDK 4.4.0 版本更新说明[2026-1-16] 
+1、【优化】消息cell重用时高度刷新问题优化  
 
 
 ## SDK 4.4.0 版本更新说明[2025-12-29] 
