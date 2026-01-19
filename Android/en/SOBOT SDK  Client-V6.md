@@ -25,21 +25,26 @@ Please use the Google version corresponding to the Zhizhi Customer Service SDK: 
 
 Dependency: 'com.sobot.chat:sobotsdk_g:+'
 
-Update Description SDK-4.2.13.2 (2025-01-07)
+Update Description SDK-4.2.13.2 (2026-01-07)
 
 [Optimization] Fixed the issue of long-press shooting failure on certain Android 9 phones
 
 Update Explanation SDK-4.2.13 (2025-12-29)
+
 [New] Work order plugin supports displaying authorization instructions
+
 [Optimization] Method for obtaining the number of unread messages with a frequency limit of once every 5 minutes
 
 Update Explanation SDK-4.2.12 (2025-12-08)
 [New] If the user refuses microphone permission during video recording, they can continue recording silent videos
+
 [Optimization] The large model returns multiple image data for compatible display
+
 [Optimization] HTML escape character display
 
 Update Explanation SDK-4.2.10 (November 24, 2025)
 [Optimization] HTML escape character display
+
 [Optimization] The default display for service evaluation is whether the issue has been resolved
 
 Update Explanation SDK-4.2.9 (November 20, 2025)

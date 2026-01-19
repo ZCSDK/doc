@@ -29,6 +29,17 @@ Dependency: 'com.sobot.chat:client:+'
 [Optimization] Update the style of the time and date selection control
 [Optimization] Update of button message style for task flow of large model robot
 
+### 更新说明 SDK-4.4.1 (2026-01-06)
+
+[New] Configuration for robots not responding during the queuing & pending allocation phase
+[New] The work order plugin now supports displaying authorization instructions
+[New] Add a switch to hide the camera button in the message interface
+[Optimization] The frequency limit for the method of obtaining the number of unread messages is once every 5 minutes
+[Optimization] Large model streaming request okhttp3 is compatible with version 5.x
+[Optimization] Implement a new style for the customer incoming call failure page
+[Optimization] Optimization of AI-generated reply styles on the visitor side
+[Optimization] Update the style of the time and date selection control
+[Optimization] Update of button message style for task process of large model robot
 
 #  Update Notes SDK-4.3.1 (2025-11-12)
 
