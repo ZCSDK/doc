@@ -9,8 +9,8 @@
 
 源码下载链接：[Android_SDK_X_4.2.14](https://img.sobot.com/mobile/sdk/Android_SDK_X_4.2.14.zip)
 
-依赖：'com.sobot.chat:sobotsdk_x:4.2.14.2'
 
+依赖：'com.sobot.chat:sobotsdk_x:4.2.14.2'
 
 【注意】
 
@@ -21,9 +21,11 @@
 
 依赖:   'com.sobot.chat:sobotsdk_g:+'
 
+
 ### 更新说明 SDK-4.2.14.2 (2026-05-21)
 
 【新增】传感器相关功能开关
+
 
 ### 更新说明 SDK-4.2.14 (2026-04-29)
 
