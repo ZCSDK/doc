@@ -8,7 +8,7 @@
 
 
 
-源码下载链接：[Android_SDK_4.6.4](https://img.sobot.com/mobile/sdk/Android_SDK_4.6.4.zip)
+源码下载链接：[Android_SDK_4.6.6](https://img.sobot.com/mobile/sdk/Android_SDK_4.6.6.zip)
 
 
 依赖：'com.sobot.chat:client:+'
@@ -22,6 +22,24 @@
 
 
 依赖:   'com.sobot.chat:client_g:+'
+
+### 更新说明 SDK-4.6.6 (2026-07-03)
+
+【新增】新增语言印地语
+
+【新增】增加 仅人工接待时会话昵称自定义
+
+【新增】支持正常显示heic、jfif、dng、WebP格式图片
+
+【新增】留言附件类型字段支持最多上传50张
+
+【优化】历史会话中有未确认（未读）消息时首次进入聊天页面会自动滚动到这个位置
+
+【优化】通知栏消息支持设置是否显示客服昵称
+
+【优化】修复仅人工模式特殊场景会把消息发给机器人的问题
+
+【优化】修复本地appkey加密出现斜杠导致文件命名失败的问题
 
 ### 更新说明 SDK-4.6.4 (2026-06-02)
 
