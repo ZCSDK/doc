@@ -8,7 +8,7 @@
 
 
 
-源码下载链接：[Android_SDK_4.6.6](https://img.sobot.com/mobile/sdk/Android_SDK_4.6.6.zip)
+源码下载链接：[Android_SDK_4.6.7](https://img.sobot.com/mobile/sdk/Android_SDK_4.6.7.zip)
 
 
 依赖：'com.sobot.chat:client:+'
@@ -22,6 +22,12 @@
 
 
 依赖:   'com.sobot.chat:client_g:+'
+
+### 更新说明 SDK-4.6.7 (2026-07-16)
+
+【优化】大模型卡片消息点击类型兼容新类型
+
+【优化】留言时区提交问题
 
 ### 更新说明 SDK-4.6.6 (2026-07-03)
 
