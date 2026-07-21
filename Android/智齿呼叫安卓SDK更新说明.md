@@ -1,12 +1,27 @@
-最新版本 3.0.2
+最新版本 3.2.5
 
 
-源码下载链接：[Android_Call_Sdk_3.0.2](https://img.sobot.com/mobile/callsdk/Android_Call_Sdk_3.0.2.zip)
+源码下载链接：[Android_Call_Sdk_3.2.5](https://img.sobot.com/mobile/callsdk/Android_Call_Sdk_3.2.5.zip)
 
-依赖：api 'com.sobot.call:sobotcall_x:3.0.2'
+依赖：api 'com.sobot.call:sobotcall_x:3.2.5'
 
+### 3.2.3 版本更新说明（2026-07-14）
 
-**3.0.2 版本更新说明(2024-05-10)**
+修改适配SDK版本
+
+### 3.2.3 版本更新说明（2026-07-04）
+
+转接座席+呼叫添加自定义参数
+
+### 3.2.2 版本更新说明（2025-11-04）	
+
+登录接口添加参数
+
+### 3.2.0 版本更新说明（2024-12-17）
+
+多语言+通知提醒+消息回执
+
+### 3.0.2 版本更新说明(2024-05-10)
 
 1、【新增】呼叫服务总结添加级联类型字段和删除提示 
 
