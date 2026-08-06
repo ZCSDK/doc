@@ -5,9 +5,12 @@
 标准版：[<智齿iOS_SDK_4.6.9>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.6.9.zip)
 
 ## SDK 4.6.9 版本更新说明[2026-08-06]
-1.【新增】isHideSendGoodsCardAfterSend 配置项，用于控制访客发送商品卡片后是否隐藏原待发送卡片。   
+1.【新增】isHideSendGoodsCardAfterSend 配置项，用于控制访客发送商品卡片后是否隐藏原待发送卡片。 
+
 2.【优化】web页面使用统一url正则    
-3.【优化】大模型卡片cellUI布局     
+
+3.【优化】大模型卡片cellUI布局  
+
 
 
 ## SDK 4.6.5 版本更新说明[2026-06-30]
