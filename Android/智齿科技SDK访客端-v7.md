@@ -8,7 +8,7 @@
 
 
 
-源码下载链接：[Android_SDK_4.6.8](https://img.sobot.com/mobile/sdk/Android_SDK_4.6.8.zip)
+源码下载链接：[Android_SDK_4.6.9](https://img.sobot.com/mobile/sdk/Android_SDK_4.6.9.zip)
 
 
 依赖：'com.sobot.chat:client:+'
@@ -22,6 +22,10 @@
 
 
 依赖:   'com.sobot.chat:client_g:+'
+
+### 更新说明 SDK-4.6.9 (2026-08-06)
+
+【新增】商品卡片发送是否消失开关，默认关闭，配置方法：info.setHideSendGoodsCardAfterSend(boolean hideSendGoodsCardAfterSend)
 
 ### 更新说明 SDK-4.6.8 (2026-07-30)
 
