@@ -8,7 +8,7 @@
 
 
 
-源码下载链接：[Android_SDK_4.6.9](https://img.sobot.com/mobile/sdk/Android_SDK_4.6.9.zip)
+源码下载链接：[Android_SDK_4.7.0](https://img.sobot.com/mobile/sdk/Android_SDK_4.7.0.zip)
 
 
 依赖：'com.sobot.chat:client:+'
@@ -22,6 +22,14 @@
 
 
 依赖:   'com.sobot.chat:client_g:+'
+
+### 更新说明 SDK-4.7.0 （2026-08-26）
+【新增】SDK横屏界面效果。  
+【新增】大模型机器人卡片和流程按钮消息重复点击    
+【新增】大模型机器人静默推送   
+【新增】异步模式新增转人工接口同步更新进入待分配列表说辞   
+【新增】满意度评价邀评限频  
+【新增】大模型机器人新增推荐问题
 
 ### 更新说明 SDK-4.6.9 (2026-08-06)
 
