@@ -1,4 +1,8 @@
-[iOS_SobotCallSDK_1.0.0 下载地址](https://img.sobot.com/mobile/callsdk/iOS_SobotCallSDK_1.0.0.zip)
+[iOS_SobotCallSDK 3.1.1 下载地址](https://img.sobot.com/mobile/sdk/iOS_CallSDK_3.1.1.zip)
+
+
+## SDK 3.1.1 版本更新说明[2026-8-2]
+  1. 【新增】统一鉴权
 
 
  呼叫SDK-1.0更新说明 (2021-12-16)
