@@ -8,7 +8,7 @@
 
 
 
-源码下载链接：[Android_SDK_4.7.0](https://img.sobot.com/mobile/sdk/Android_SDK_4.7.0.zip)
+源码下载链接：[Android_SDK_4.7.1](https://img.sobot.com/mobile/sdk/Android_SDK_4.7.1.zip)
 
 
 依赖：'com.sobot.chat:client:+'
@@ -22,6 +22,9 @@
 
 
 依赖:   'com.sobot.chat:client_g:+'
+
+### 更新说明 SDK-4.7.1 （2026-09-03）
+【优化】留言状态有更新逻辑优化 
 
 ### 更新说明 SDK-4.7.0 （2026-08-26）
 【新增】SDK横屏界面效果。  
