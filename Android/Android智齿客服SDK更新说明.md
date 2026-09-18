@@ -1,13 +1,11 @@
 客服sdk最新版本下载地址：
 
-普通版
 
-[Android_OnlineSDK_1.0.2](https://img.sobot.com/mobile/onlinesdk/Android_OnlineSDK_1.0.2.zip)
+[Android_OnlineSDK_X_1.0.6](https://img.sobot.com/mobile/onlinesdk/Android_OnlineSDK_X_1.0.6.zip)
 
-androidX版
+**客服SDK-1.0.6更新说明 (2026-09-16)**
 
-[Android_OnlineSDK_X_1.0.2](https://img.sobot.com/mobile/onlinesdk/Android_OnlineSDK_X_1.0.2.zip)
-
+- 【优化】广播接受消息
 
 **客服SDK-1.0.2更新说明 (2022-03-8)**
 
