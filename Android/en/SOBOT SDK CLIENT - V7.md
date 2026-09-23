@@ -13,9 +13,75 @@
 【 Main Function 】: The ZhiChi Technology SDK Visitor Client provides a comprehensive set of intelligent customer service solutions for enterprises. The ZhiChi Customer Service SDK not only encompasses customer service business logic but also offers an interactive interface. Enterprises can integrate ZhiChi Customer Service into their APPs in just two simple steps, enabling the APPs to provide 24/7 customer service.
 
 
-Source code download link:[Android_SDK_4.6.0](https://img.sobot.com/mobile/sdk/Android_SDK_4.6.0.zip)
+Source code download link:[Android_SDK_4.7.1](https://img.sobot.com/mobile/sdk/Android_SDK_4.7.1.zip)
 
 Dependency: 'com.sobot.chat:client:+'
+
+以下是修改后的版本：
+
+---
+
+# Update Notes SDK-4.7.1 (2026-09-03)
+[Optimization] Optimized the logic for updating leave-message status
+
+# Update Notes SDK-4.7.0 (2026-08-26)
+[New] Landscape UI support for SDK screens
+[New] Repeated-click handling for LLM bot card and flow button messages
+[New] Silent push notifications for LLM bot
+[New] In async mode, the transfer-to-human API now also synchronously updates the wording for entering the to-be-assigned queue
+[New] Rate limiting for satisfaction survey invitations
+[New] Recommended questions for LLM bot
+
+# Update Notes SDK-4.6.9 (2026-08-06)
+
+[New] Added a switch for whether the product card disappears after being sent, disabled by default. Configuration: info.setHideSendGoodsCardAfterSend(boolean hideSendGoodsCardAfterSend)
+
+# Update Notes SDK-4.6.8 (2026-07-30)
+
+[Optimization] Leave-message video attachment preview
+
+[Optimization] Bubble display for related-question messages
+
+[Optimization] LLM card popups now support rich text
+
+# Update Notes SDK-4.6.7 (2026-07-16)
+
+[Optimization] LLM card message click actions now support new click types
+
+[Optimization] Fixed a timezone issue when submitting leave messages
+
+# Update Notes SDK-4.6.6 (2026-07-03)
+
+[New] Added Hindi language
+
+[New] Added custom conversation nickname for human-agent-only reception
+
+[New] Support for properly displaying HEIC, JFIF, DNG, and WebP images
+
+[New] Leave-message attachment field now supports uploading up to 50 files
+
+[Optimization] When there are unconfirmed (unread) messages in chat history, the chat page now automatically scrolls to that position on first entry
+
+[Optimization] Notification bar messages now support toggling whether to show the agent's nickname
+
+[Optimization] Fixed an issue where messages could be sent to the bot in special scenarios under human-agent-only mode
+
+[Optimization] Fixed an issue where slashes in the locally encrypted appkey caused file naming to fail
+
+# Update Notes SDK-4.6.4 (2026-06-02)
+
+[New] Multilanguage support for secondary satisfaction ratings
+
+[New] Satisfaction rating: removed the "Resolved", "Unresolved", "Satisfied", and "Dissatisfied" options
+
+[Optimization] Improved button styles in chat history for LLM button messages on third-party channels
+
+# Update Notes SDK-4.6.3 (2026-05-22)
+
+[New] Sensor function switch
+
+[Optimization] Custom card amount display
+
 
 # Update Notes SDK-4.6.0 (2026-04-24)
 [New] Added Persian language support to the visitor side.
