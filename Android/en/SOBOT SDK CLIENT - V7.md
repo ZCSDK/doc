@@ -17,19 +17,23 @@ Source code download link:[Android_SDK_4.7.1](https://img.sobot.com/mobile/sdk/A
 
 Dependency: 'com.sobot.chat:client:+'
 
-以下是修改后的版本：
-
----
 
 # Update Notes SDK-4.7.1 (2026-09-03)
+
 [Optimization] Optimized the logic for updating leave-message status
 
 # Update Notes SDK-4.7.0 (2026-08-26)
+
 [New] Landscape UI support for SDK screens
+
 [New] Repeated-click handling for LLM bot card and flow button messages
+ 
 [New] Silent push notifications for LLM bot
+
 [New] In async mode, the transfer-to-human API now also synchronously updates the wording for entering the to-be-assigned queue
+
 [New] Rate limiting for satisfaction survey invitations
+
 [New] Recommended questions for LLM bot
 
 # Update Notes SDK-4.6.9 (2026-08-06)
