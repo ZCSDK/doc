@@ -13,10 +13,16 @@
 【 Main Function 】: The ZhiChi Technology SDK Visitor Client provides a comprehensive set of intelligent customer service solutions for enterprises. The ZhiChi Customer Service SDK not only encompasses customer service business logic but also offers an interactive interface. Enterprises can integrate ZhiChi Customer Service into their APPs in just two simple steps, enabling the APPs to provide 24/7 customer service.
 
 
-Source code download link:[Android_SDK_4.7.1](https://img.sobot.com/mobile/sdk/Android_SDK_4.7.1.zip)
+Source code download link:[Android_SDK_4.7.2](https://img.sobot.com/mobile/sdk/Android_SDK_4.7.2.zip)
 
 Dependency: 'com.sobot.chat:client:+'
 
+### Update Notes SDK-4.7.2 (2026-10-10)
+[New Feature] The SDK now supports sending messages with both attachments and text
+[Optimization] Bold echo in MD parsing for large model robots
+[Optimization] Fixed the issue where specified customer service agents were offline while others were online, causing repeated failures in transferring calls to live agents
+[Optimization] Set up enterprise-specific categories for messages, and the ID of the designated category should be transmitted to the backend when submitting a message
+[Optimization] Add Interaction: When returning from the chat page during API36 runtime, click the system return button to first close the emoji panel before leaving
 
 # Update Notes SDK-4.7.1 (2026-09-03)
 
