@@ -1,8 +1,8 @@
-**V7：4.7.0 2026-8-28**
+**V7：4.7.2 2026-10-10**
 
 Basic:
 
-Download link: [[iOS_SDK_v7]](https://img.sobot.com/mobile/sdk/iOS_SDK_4.7.0.zip)
+Download link: [[iOS_SDK_v7]](https://img.sobot.com/mobile/sdk/iOS_SDK_4.7.2.zip)
 
 
 **V6：4.2.13**
