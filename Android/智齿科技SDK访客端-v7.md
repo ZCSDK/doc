@@ -8,7 +8,7 @@
 
 
 
-源码下载链接：[Android_SDK_4.7.2](https://img.sobot.com/mobile/sdk/Android_SDK_4.7.2.zip)
+源码下载链接：[Android_SDK_4.7.3](https://img.sobot.com/mobile/sdk/Android_SDK_4.7.3.zip)
 
 
 依赖：'com.sobot.chat:client:+'
@@ -22,6 +22,10 @@
 
 
 依赖:   'com.sobot.chat:client_g:+'
+
+### 更新说明 SDK-4.7.3 （2026-11-06）
+
+【优化】大模型转人工逻辑
 
 
 ### 更新说明 SDK-4.7.2 （2026-10-10）
