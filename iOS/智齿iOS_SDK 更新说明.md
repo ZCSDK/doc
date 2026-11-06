@@ -2,8 +2,12 @@
 
 智齿iOS_SDK_V7：
 
-标准版：[<智齿iOS_SDK_4.7.2>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.7.2.zip)
+标准版：[<智齿iOS_SDK_4.7.3>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.7.3.zip)
 
+## SDK 4.7.3 版本更新说明[2026-11-06]
+1.【新增】兼容iOS 折叠屏，本次 SDK 集成包使用 Xcode 27.1 构建，最低支持 iOS 15。      
+2.【优化】富文本输入框横屏适配.      
+3.【新增】大模型会话切出返回转人工和消息优化.      
 
 ## SDK 4.7.2 版本更新说明[2026-10-10]
 1.【新增】兼容iOS27  
