@@ -17,11 +17,26 @@ Source code download link:[Android_SDK_4.7.2](https://img.sobot.com/mobile/sdk/A
 
 Dependency: 'com.sobot.chat:client:+'
 
+### Update Notes SDK-4.7.4 （2026-11-24）
+
+[New] Large model robot welcome message supports rich text
+
+[Optimization] Large model robot answer empty message bubble optimization
+
+### Update Notes SDK-4.7.3 （2026-11-06）
+
+[Optimization] Convert large models to manual logic
+
 ### Update Notes SDK-4.7.2 (2026-10-10)
-[New Feature] The SDK now supports sending messages with both attachments and text
+
+[New] The SDK now supports sending messages with both attachments and text
+
 [Optimization] Bold echo in MD parsing for large model robots
+
 [Optimization] Fixed the issue where specified customer service agents were offline while others were online, causing repeated failures in transferring calls to live agents
+
 [Optimization] Set up enterprise-specific categories for messages, and the ID of the designated category should be transmitted to the backend when submitting a message
+
 [Optimization] Add Interaction: When returning from the chat page during API36 runtime, click the system return button to first close the emoji panel before leaving
 
 # Update Notes SDK-4.7.1 (2026-09-03)
