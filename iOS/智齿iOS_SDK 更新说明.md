@@ -2,7 +2,15 @@
 
 智齿iOS_SDK_V7：
 
-标准版：[<智齿iOS_SDK_4.7.3>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.7.3.zip)
+标准版：[<智齿iOS_SDK_4.7.4>](https://img.sobot.com/mobile/sdk/iOS_SDK_4.7.4.zip)
+
+## SDK 4.7.4 版本更新说明[2026-11-24]
+1.【新增】大模型机器人欢迎语支持富文本.  
+2.【优化】大模型机器人回答空消息气泡优化.   
+3.【新增】访客端可发送文件类型新增白名单限制.     
+4.【优化】优化 UIViewReservedRegionKind 兼容性问题，解决低于 Xcode 27.1 的环境下编译问题.    
+5.【新增】配置客户分类字段 categoryParam.  
+  
 
 ## SDK 4.7.3 版本更新说明[2026-11-06]
 1.【新增】兼容iOS 折叠屏，本次 SDK 集成包使用 Xcode 27.1 构建，最低支持 iOS 15。      
